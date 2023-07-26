@@ -1,0 +1,17 @@
+tests\BookingData$BookingDataBuilder.class
+tests\BookingId.class
+tests\CreateBookingResponse$CreateBookingResponseBuilder.class
+tests\CreateBooking.class
+tests\Auth$AuthBuilder.class
+tests\Auth.class
+tests\BookingTests.class
+tests\AuthResponse$AuthResponseBuilder.class
+tests\CreateBookingResponse.class
+tests\BookingId$BookingIdBuilder.class
+tests\CreateBooking$CreateBookingBuilder.class
+tests\ChangePrice.class
+tests\AuthResponse.class
+tests\BookingDates$BookingDatesBuilder.class
+tests\BookingDates.class
+tests\BookingData.class
+tests\ChangePrice$ChangePriceBuilder.class
